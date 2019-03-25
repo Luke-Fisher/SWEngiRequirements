@@ -28,45 +28,27 @@ The project manager assess risk associated with project adoption, decides the ri
 2. The risk measurements are clear enough or well-documented enough to be understood.
 
 ## Extensions and Steps of Execution
-###1. Suggest risk evaluation metric
+1. Suggest risk evaluation metric
   * User notices a metric they would find useful isn't implemented in augur
   * Click "Suggest New Metric" button
   * A form opens up prompting the user to enter a metric suggestion, description of the metric, and contact info
   * User submits form and resumes
-###2. Contact project current OSS project developer
+  
+2. Contact project current OSS project developer
   * User wishes to contact open source manager
   * User clicks "Contact OSS Manager" button
   * User is directed to the OSS manager's GitHub page
-###3. Get help
+  
+3. Get help
   * User is having trouble using augur's risk evaluation tool
   * user clicks "Help" button
   * User is directed to a help page regarding the risk evaluation tool
 
-###4. View metric details
+4. View metric details
   * User wants to view details about a specific metric
   * User clicks "View Metric Details" button
   * Pop-up with graphs, explanations, and data pops up.
   * User closes pop-up and resumes
-
-## Steps of Execution
-1a) User notices a metric they would find useful isn't implemented in augur
-1b) Click "Suggest New Metric" button
-1c) A form opens up prompting the user to enter a metric suggestion, description of the metric, and contact info
-1d) User submits form and resumes
-
-2a) User wishes to contact open source manager
-2b) User clicks "Contact OSS Manager" button
-2c) User is directed to the OSS manager's GitHub page
-
-3a) User is having trouble using augur's risk evaluation tool
-3b) user clicks "Help" button
-3c) User is directed to a help page regarding the risk evaluation tool
-
-4a) User wants to view details about a specific metric
-4b) User clicks "View Metric Details" button
-4c) Pop-up with graphs, explanations, and data pops up.
-4d) User closes pop-up and resumes
-## A use case diagram
-(following the UML Standard for expressing use cases.)
-
-## Dependent Use Cases
+  
+## Use Case Diagram
+[Diagram](http://github.com)
