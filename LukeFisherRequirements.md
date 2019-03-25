@@ -27,15 +27,26 @@ The project manager assess risk associated with project adoption, decides the ri
 1. The project manager doesn't see enough risk metrics to feel comfortable making a decision.
 2. The risk measurements are clear enough or well-documented enough to be understood.
 
-## Extensions
-1. Suggest risk evaluation metric
+## Extensions and Steps of Execution
+###1. Suggest risk evaluation metric
   * User notices a metric they would find useful isn't implemented in augur
   * Click "Suggest New Metric" button
   * A form opens up prompting the user to enter a metric suggestion, description of the metric, and contact info
   * User submits form and resumes
-2. Contact project current OSS project developer
-3. Get help
-4. View metric details
+###2. Contact project current OSS project developer
+  * User wishes to contact open source manager
+  * User clicks "Contact OSS Manager" button
+  * User is directed to the OSS manager's GitHub page
+###3. Get help
+  * User is having trouble using augur's risk evaluation tool
+  * user clicks "Help" button
+  * User is directed to a help page regarding the risk evaluation tool
+
+###4. View metric details
+  * User wants to view details about a specific metric
+  * User clicks "View Metric Details" button
+  * Pop-up with graphs, explanations, and data pops up.
+  * User closes pop-up and resumes
 
 ## Steps of Execution
 1a) User notices a metric they would find useful isn't implemented in augur
