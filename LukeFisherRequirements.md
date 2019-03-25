@@ -29,6 +29,10 @@ The project manager assess risk associated with project adoption, decides the ri
 
 ## Extensions
 1. Suggest risk evaluation metric
+  1. User notices a metric they would find useful isn't implemented in augur
+  2. Click "Suggest New Metric" button
+1c) A form opens up prompting the user to enter a metric suggestion, description of the metric, and contact info
+1d) User submits form and resumes
 2. Contact project current OSS project developer
 3. Get help
 4. View metric details
