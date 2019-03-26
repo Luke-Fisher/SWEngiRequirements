@@ -28,10 +28,10 @@ The maintainer is either unable to view ANY licensing information about their pr
 
 ## Extensions and Steps of Execution
 1. Provide Augur with the URL for the project in question
+    a. The project might be stored locally.  In this case, the user would be prompted to select the repository from their computer.
 2. Select scan "depth:" shallow or deep.
 3. Initiate scan.
 4. Parse the relevant returned licensing information.
 
-
 ## Use Case Diagram
-[Diagram](https://github.com/Luke-Fisher/SWEngiRequirements/blob/master/Requirements%20UML.png)
+[Diagram](https://github.com/Luke-Fisher/SWEngiRequirements/blob/master/OpenSourceMaintainerUseCase.png)
