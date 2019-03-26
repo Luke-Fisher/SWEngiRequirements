@@ -1,4 +1,5 @@
 # Corporate Project Manager Assesses Risk Related to Project Adoption
+Created by Luke Fisher and edited by Paul Gillis and Carter Landis
 
 ## Description 
 Often times when reviewing a project to adopt, community managers wish to assess the risk associated with adoption. After all, companies will often be spending large sums of money and time supporting, maintaining, and improving the projects they adopt. Risk comes in many forms, often not obvious or easily measurable. Measures of risk that companies are insterested in include how expensive the project would be to maintain, how much time would need to be spent maintain the project, licensing and legal issues that may appear (such as copyleft vs non-copyleft), system reliability (especially true for safety critical systems), system security (especially where user information or money is involved), what such a project could do to the company image, and competitive risk. 
